@@ -16,7 +16,7 @@ h2{
 }
 section{
     display: flex;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
 }
 .half-width{
 
@@ -118,3 +118,35 @@ section{
         margin-left: 4%;
         color: grey;
     }
+    .data1 {
+        width: 50%;
+        float: left;
+        font-size:medium;
+        margin-left: 26%;
+        
+    }
+    .data2{
+        width: 50%;
+        float: left;
+        font-size: medium;
+    }
+    .data3{
+        width: 50%;
+        float: left;
+        font-size: medium;
+    }
+    .update{
+        margin-top: 7%;
+        height: 200px;
+        float: left;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 10px;
+        box-shadow: 5px 5px 20px rgb(117 114 114);
+    
+    }
+    h3{
+        font-size: 45px;
+    }
+    
