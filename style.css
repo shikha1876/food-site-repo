@@ -3,11 +3,18 @@ body{
 font-family: 'Roboto Slab', serif;
 
 }
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
 .orange-color{
     color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 90px;
 }
 .half-width{
 
@@ -17,6 +24,14 @@ section{
 .half-width img{
     width: 100%;
 }
+.half-width1{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width1 img{
+    width: 60%;
+}
+
 
 .link-button{
     text-decoration: none;
@@ -25,4 +40,13 @@ section{
     border-radius: 20px;
     font-weight: 700;
     color: white;
+}
+.top-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin: 3px;
+}
+#para-section{
+    font-size: 17px;
+    
 }
